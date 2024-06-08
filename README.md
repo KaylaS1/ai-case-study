@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I have to coordinate content creation activities for projects at my employer.  One of the hardest things to do is to get professional videos created, with good quality and then keep them updated with branding and content updates. How lovely it would be to have AI do this tedious work for me! This case study is an exploration of the video creation industry and one of its top company **Synthesia**.
+> I have to coordinate content creation activities for projects at my employer.  One of the hardest things to do is to get professional videos created, with good quality and then keep them updated with branding and content updates. How lovely it would be to have AI do this tedious work for me! This case study is an exploration of the video creation industry and one of its top company **Synthesia**.
 
 ## Origin and Funding
 
